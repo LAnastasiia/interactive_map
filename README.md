@@ -7,10 +7,10 @@ specific year (else it will be assigned to the default value). Map contains
 3 layers:
 
 *  simple map, presented in Watercolor interpretation, user
-also can put his own markers on this layer.
+also can put his own markers (red) on this layer.
 
-*  map layer with marked (blue pointers) places of filming and place
+*  map layer with marked (light blue pointers) places of filming and place
 of user's home (due to address, given by user).
 
-*  map layer with painted in different colors, according to population
-data.
+*  map layer with painted in different colors (according to population
+data) countries; information about population is taken from world.json file.
