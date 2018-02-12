@@ -3,7 +3,7 @@ Builds an interactive map (using Python's folium library) according to specific 
 
 This program builds an interactive multilayer map, which points filming
 locations with markers. User enters the year to explore film locations of
-specific year.
+specific year. 
 Map contains 3 layers:
 
 *  simple map, presented in watercolor, openstreets, landscape and bright interpretations, user
