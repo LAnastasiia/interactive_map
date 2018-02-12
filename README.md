@@ -1,5 +1,5 @@
 # interactive_map
-Builds an interactive map (using Python's folium library) according to specific film information given in file.
+Builds an interactive map (using Python's folium library) according to specific film information given in file (processed with pandas module).
 
 This program builds an interactive multilayer map, which points filming
 locations with markers. User enters the year to explore film locations of
