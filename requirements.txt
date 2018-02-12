@@ -1,0 +1,11 @@
+What You should have installed (or simply imported - in case of modules)
+on Your PC in order to run this program properly?
+Requirements:
+* folium - (to create map and save it as html-page)
+* pandas - (to work with csv files and create DataFrames)
+* csv module - (to work with csv files)
+* re - (to process regular expressions)
+* html module - (to represent strings for html properly)
+* os module - (to check file's existance)
+* GeocoderTimedOut (from geopy.exc ) - (to work with timeout exception)
+* ArcGIS (from geopy.geocoders) - (to find address coordinates)
