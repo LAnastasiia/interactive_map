@@ -14,3 +14,5 @@ of user's home (due to address, given by user).
 
 *  map layer with painted in different colors (according to population
 data) countries; information about population is taken from world.json file.
+
+To use this program, make sure You follow requirements, download files and run Python code (Anastasiia_Lazorenko_interactive_map.py) and follow instructions in the program.
