@@ -177,7 +177,8 @@ def create_map(data_frame, home_address, year):
         # Add marker for each DataFrame row.
         f_year_gr.add_child(folium.Marker([ltt, lng],
                                           popup=ttl,
-                                          icon=folium.Icon(icon='video')))
+                                          icon=folium.Icon(icon='video',
+                                                           color='red')))
     f_map.add_child(f_year_gr)
 
     travel_layer = folium.TileLayer('Stamen Terrain')
